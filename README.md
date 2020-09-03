@@ -42,6 +42,8 @@ Occasional writer and artist.
    * [**Connect via LinkedIn**](https://www.linkedin.com/in/gayathri-venu-67b55b183/)
 
 
+
+
 <div align="center">
 <img src="https://github.com/gayathri-venu/gayathri-venu/blob/master/octo.gif" alt="Octo" width="50" height="50" />
 </div>
