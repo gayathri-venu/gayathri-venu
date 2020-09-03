@@ -32,13 +32,14 @@ Occasional writer and artist.
 
 
 - 📫 How to reach me: 
-* [**Drop a Mail**](mailto:gayathrivenu2000@gmail.com)
+   
+   * [**Drop a Mail**](mailto:gayathrivenu2000@gmail.com)
 
-* [**Connect via LinkedIn**](https://www.linkedin.com/in/gayathri-venu-67b55b183/)
+   * [**Connect via LinkedIn**](https://www.linkedin.com/in/gayathri-venu-67b55b183/)
 
 
 <div align="center">
-<img src="https://github.com/gayathri-venu/gayathri-venu/blob/master/octo.gif" alt="Octo" width="150" height="150" />
+<img src="https://github.com/gayathri-venu/gayathri-venu/blob/master/octo.gif" alt="Octo" width="50" height="50" />
 </div>
 
 
