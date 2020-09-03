@@ -1,7 +1,7 @@
 
 
 <div align="center">
-<img src="https://github.com/gayathri-venu/gayathri-venu/blob/master/banner.png" alt="Gayathri Venu"/>
+<img src="https://www.canva.com/design/DAEGuMqTdDs/KeCFYeAB4YBHLzOtQPGs8g/view?utm_content=DAEGuMqTdDs&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" alt="Gayathri Venu"/>
 </div>
 
 
