@@ -21,6 +21,8 @@ Occasional writer and artist.
 </div>
 
 
+# My Interests
+
 - 🌱 I’m currently learning: **Data Science, Full-Stack Web Dev**
 
 - 🤔 I’m looking for help with: **Competitive Coding**
@@ -30,6 +32,8 @@ Occasional writer and artist.
 <img src="https://github.com/gayathri-venu/gayathri-venu/blob/master/connected.gif" alt="Connect" width="350" height="200" />
 </div>
 
+
+# Let's Connect
 
 - 📫 How to reach me: 
    
