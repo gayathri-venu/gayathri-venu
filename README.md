@@ -6,7 +6,14 @@
 
 
 - **About me**
-Self-driven coding enthusiast, exploring the world of coding to its infinite boundaries...Loves to solve real world problems applying skills I've earned and learn more on the go.Interested in Data Science and Full Stack Development. Occasional writer and artist.
+
+Self-driven coding enthusiast, exploring the world of coding to its infinite boundaries...
+
+Loves to solve real world problems applying skills I've earned and learn more on the go.
+
+Interested in Data Science and Full Stack Development. 
+
+Occasional writer and artist.
 
 
 <div align="center">
