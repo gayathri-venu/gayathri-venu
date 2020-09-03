@@ -21,7 +21,7 @@ Occasional writer and artist.
 </div>
 
 
-- 🌱 I’m currently learning:**Data Science, Full-Stack Web Dev**
+- 🌱 I’m currently learning: **Data Science, Full-Stack Web Dev**
 
 - 🤔 I’m looking for help with: **Competitive Coding**
 
