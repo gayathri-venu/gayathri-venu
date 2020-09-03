@@ -5,7 +5,7 @@
 </div>
 
 
-- **About me**
+# About me
 
 Self-driven coding enthusiast, exploring the world of coding to its infinite boundaries...
 
