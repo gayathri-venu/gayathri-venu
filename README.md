@@ -23,7 +23,7 @@ Occasional writer and artist.
 
 # My Interests
 
-- 🌱 I’m currently learning: **Data Science, Full-Stack Web Dev**
+- 🌱 I’m currently learning: **Full-Stack Web Dev and Competitive Coding**
 
 
 
