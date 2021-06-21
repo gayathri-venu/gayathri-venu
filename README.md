@@ -11,7 +11,7 @@ Self-driven coding enthusiast, exploring the world of coding to its infinite bou
 
 Loves to solve real world problems applying skills I've earned and learn more on the go.
 
-Interested in Web Development and Data Science
+Interested in Web Development and Product Management
 
 Occasional writer and artist.
 
